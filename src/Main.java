@@ -6,7 +6,7 @@ public class Main {
 		p.y = 3;
 
 		final Player player = new Player();
-		player.name = "Slava";
+		player.name = "Michael";
 		player.figure = "X";
 	}
 
